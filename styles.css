@@ -39,7 +39,7 @@ body
     width: calc(50% - 10px);
     height: 200px;
     background-color: #00fb71;
-    font-size: 45px;
+    font-size: 25px;
     font-family: "Oswald", sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -69,6 +69,11 @@ body
         width: calc(50% - 10px);
         height: 100px;
     }
+}
+
+.main div
+{
+    height: 50vh;
 }
 
 .footer
